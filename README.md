@@ -1,6 +1,7 @@
 # ecommerce
 
-A new Flutter project.
+FLutter UI series based on <a href="https://www.uplabs.com/">Uplabs</a>
+
 
 ## Getting Started
 
