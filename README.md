@@ -18,6 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 <h2>Screenshot<h2>
   
  <div align="center">
-    <img src="/screenshots/login.JPG" width="400px"</img> 
-    <img src="/screenshots/signup.JPG" width="400px"</img> 
+    <img src="/screenshots/login.JPG" width="300px"</img> 
+    <img src="/screenshots/signup.JPG" width="300px"</img> 
 </div>
