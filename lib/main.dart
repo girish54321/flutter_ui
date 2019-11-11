@@ -1,6 +1,7 @@
 // import 'package:ecommerce/src/pages/login_signup/login_page.dart';
 import 'package:flutter/material.dart';
 
+import 'src/Flutter_carousel/carousel.dart';
 import 'src/pages/homepage/home_page.dart';
 
 void main() => runApp(MyApp());
@@ -16,7 +17,8 @@ class MyApp extends StatelessWidget {
       ),
       debugShowCheckedModeBanner: false,
       // home: LoginPage(title: 'Login Page'),
-      home: HomePage(),
+      // home: HomePage(),
+      home: FLutterCarousel(),
     );
   }
 }
