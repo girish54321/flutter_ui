@@ -26,6 +26,9 @@ samples, guidance on mobile development, and a full API reference.
 <br>
  <div align="">
     <img src="/screenshots/profile.JPG" width="250px"</img> 
+</div>
+<br>
+ <div align="">
     <img src="/screenshots/carosulJPG.JPG" width="250px"</img> 
 </div>
 
