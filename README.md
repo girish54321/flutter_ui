@@ -4,7 +4,7 @@
     <img src="/screenshots/play-store-logo.PNG" width="250px"</img> 
 </div>
 <br>
-#Credits
+<h3>Credits<h3>
 
 FLutter UI series based on <a href="https://www.uplabs.com/">Uplabs</a>
 
