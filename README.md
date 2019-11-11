@@ -24,4 +24,4 @@ samples, guidance on mobile development, and a full API reference.
     <img src="/screenshots/signup.JPG" width="250px"</img> 
 </div>
 <img src="/screenshots/profile.JPG" width="250px"</img> 
-<img src="/screenshots/carosul.JPG" width="250px"</img> 
+<img src="/screenshots/carosulJPG.JPG" width="250px"</img> 
