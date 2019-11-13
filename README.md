@@ -26,4 +26,10 @@ FLutter UI series based on <a href="https://www.uplabs.com/">Uplabs</a>
  <div align="">
     <img src="/screenshots/carosulJPG.JPG" width="250px"</img> 
 </div>
+ <br>
+ <h3>Social Media Clone<h3>
+ <h5>Instagram<h>
+ <div align="">
+    <img src="/screenshots/instagram.JPG" width="250px"</img> 
+</div>
 
