@@ -1,6 +1,7 @@
 // import 'package:ecommerce/src/pages/login_signup/login_page.dart';
 import 'package:flutter/material.dart';
 
+import 'src/pages/login_signup/login_page.dart';
 import 'src/pages/login_signup/login_page2.dart';
 
 void main() => runApp(MyApp());
@@ -15,11 +16,11 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
       debugShowCheckedModeBanner: false,
-      // home: LoginPage(title: 'Login Page'),
+      home: LoginPage(title: 'Login Page'),
       // home: HomePage(),
       // home: FLutterCarousel(),
       // home: InstagramHomePage(),
-      home: LoginPage2(),
+      // home: LoginPage2(),
     );
   }
 }
