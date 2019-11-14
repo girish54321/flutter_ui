@@ -6,7 +6,7 @@
 <br>
 <h3>Credits<h3>
 
-FLutter UI series based on <a href="https://www.uplabs.com/">Uplabs</a>
+FLutter UI series based on <a href="https://www.uplabs.com/">Uplabs</a> & <a href="https://dribbble.com/">Dribble</>
 
 <h2>Screenshot<h2>
 <h3>User FLow Screens<h3>
