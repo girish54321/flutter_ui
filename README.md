@@ -33,6 +33,7 @@ FLutter UI series based on <a href="https://www.uplabs.com/">Uplabs</a>
  <br>
  <div align="">
     <img src="/screenshots/instagram.JPG" width="250px",height="200px"</img> 
+    <img src="/screenshots/instagramprofile.JPG" width="250px",height="200px"</img> 
 </div>
 <br>
  <h2>Car UI<h2>
