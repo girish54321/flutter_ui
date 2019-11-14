@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'src/pages/login_signup/login_page3.dart';
+import 'src/whatsappui/whatsappui2.dart';
 
 void main() => runApp(MyApp());
 
@@ -21,7 +21,8 @@ class MyApp extends StatelessWidget {
       // home: InstagramProfilePage(),
       // home: TabBarDemo(),
       // home: UserProfilePage(),
-      home: LoginPage3(),
+      // home: LoginPage3(),
+      home: WhatsAppUi2(),
     );
   }
 }
