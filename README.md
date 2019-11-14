@@ -43,5 +43,5 @@ FLutter UI series based on <a href="https://www.uplabs.com/">Uplabs</a> & <a hre
   <div align="">
     <img src="/screenshots/car.JPG" width="250px",height="200px"</img> 
     <img src="/screenshots/car2.JPG" width="250px",height="200px"</img> 
-</div>
+     </div>
 
