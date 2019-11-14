@@ -1,11 +1,9 @@
-// import 'package:ecommerce/src/pages/login_signup/login_page.dart';
-import 'package:ecommerce/src/car_rent_ui/car_home_page/car_home_page.dart';
 import 'package:flutter/material.dart';
+import 'src/instagramui/profilepage/profile_page.dart';
 
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
-  // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -19,7 +17,8 @@ class MyApp extends StatelessWidget {
       // home: FLutterCarousel(),
       // home: InstagramHomePage(),
       // home: LoginPage2(),
-      home: CarHomePage(),
+      // home: CarHomePage(),
+      home: InstagramProfilePage(),
     );
   }
 }
