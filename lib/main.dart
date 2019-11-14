@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'src/whatsappui/home_page_whatsapp.dart';
+import 'src/userprofile/profile_challenge.dart';
 
 void main() => runApp(MyApp());
 
@@ -19,7 +19,8 @@ class MyApp extends StatelessWidget {
       // home: LoginPage2(),
       // home: CarHomePage(),
       // home: InstagramProfilePage(),
-      home: TabBarDemo(),
+      // home: TabBarDemo(),
+      home: UserProfilePage(),
     );
   }
 }

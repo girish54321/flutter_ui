@@ -30,6 +30,7 @@ dev_dependencies:
   flutter_custom_clippers:
   font_awesome_flutter:
   carousel_slider:
+  flutter_staggered_grid_view:
 
 
 # For information on the generic Dart part of this file, see the
