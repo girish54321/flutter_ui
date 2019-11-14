@@ -25,9 +25,11 @@ FLutter UI series based on <a href="https://www.uplabs.com/">Uplabs</a>
 </div>
 
 <br>
-<h3>Flutter Carosule<h3>
+<h3>Flutter Carosule and Grid View<h3>
  <div align="">
     <img src="/screenshots/carosulJPG.JPG" width="250px",height="200px"</img> 
+    <img src="/screenshots/gridview1.JPG" width="250px",height="200px"</img> 
+    <img src="/screenshots/gridview2.JPG" width="250px",height="200px"</img> 
 </div>
  <br>
  <h3>Social Media Clone<h3>
