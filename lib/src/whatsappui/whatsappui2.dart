@@ -8,6 +8,8 @@ class WhatsAppUi2 extends StatefulWidget {
 
 class _WhatsAppUi2State extends State<WhatsAppUi2> {
   final Color green = Color(0xFF36C88A);
+    TabController _controller;
+
 
   @override
   Widget build(BuildContext context) {
@@ -55,25 +57,57 @@ class _WhatsAppUi2State extends State<WhatsAppUi2> {
                         ),
                       ],
                     ),
-                    SizedBox(height: 10,),
+                    SizedBox(
+                      height: 10,
+                    ),
                     SizedBox(
                       height: 40,
-                      width: MediaQuery.of(context).size.width/1.25,
+                      width: MediaQuery.of(context).size.width / 1.25,
                       child: TextField(
-                      keyboardType: TextInputType.text,
-                      obscureText: true,
-                      decoration: InputDecoration(
+                        keyboardType: TextInputType.text,
+                        obscureText: true,
+                        decoration: InputDecoration(
                           prefixIcon: Icon(Icons.search),
                           border: OutlineInputBorder(
                             borderRadius: BorderRadius.circular(30.0),
                           ),
                           hintText: 'Search your friends',
+                        ),
                       ),
-                    ),
                     )
                   ],
-                )
-            ),
+                )),
+            
+              Container(
+                child: TabBar(
+                  tabs: <Widget>[
+                    Tab(icon: Icon(Icons.add),),
+                    Tab(icon: Icon(Icons.add),),
+                  ],
+                ),
+              ),
+
+              Container(
+                height: 80,
+                child: TabBarView(
+                  controller: _controller,
+                  children: <Widget>[
+                    Card(
+                      child: ListTile(
+                        leading: Icon(Icons.card_giftcard),
+                        
+                      ),
+                    ),
+                    Card(
+                      child: ListTile(
+                        leading: Icon(Icons.card_giftcard),
+                        
+                      ),
+                    )
+                  ],
+                ),
+              )
+            
           ],
         ),
       ),
