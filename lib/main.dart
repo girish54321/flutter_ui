@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'src/userprofile/profile_challenge.dart';
+import 'src/pages/login_signup/login_page3.dart';
 
 void main() => runApp(MyApp());
 
@@ -20,7 +20,8 @@ class MyApp extends StatelessWidget {
       // home: CarHomePage(),
       // home: InstagramProfilePage(),
       // home: TabBarDemo(),
-      home: UserProfilePage(),
+      // home: UserProfilePage(),
+      home: LoginPage3(),
     );
   }
 }
