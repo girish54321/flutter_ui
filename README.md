@@ -20,6 +20,7 @@ FLutter UI series based on <a href="https://www.uplabs.com/">Uplabs</a>
 <h3>User Profile<h3>
  <div align="">
     <img src="/screenshots/profile.JPG" width="250px",height="200px"</img> 
+    <img src="/screenshots/profile2.JPG" width="250px",height="200px"</img> 
 </div>
 
 <br>
