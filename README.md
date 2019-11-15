@@ -31,35 +31,48 @@ FLutter UI series based on <a href="https://www.uplabs.com/">Uplabs</a> & <a hre
       </td>
   </table>
  <br>
-<h3>Custom App Bar<h3>
- <div align="">
-    <img src="/screenshots/custombar.JPG" width="250px",height="200px"</img> 
-</div>
+           
+<table>
+    <td>
+      <h3>Custom App Bar<h3>
+        <img src="/screenshots/custombar.JPG" width="250px",height="200px"</img> 
+    </td>
+</table>
     
- <h3>User Profile<h3>
- <div align="">
+ <table>
+    <td>
+     <h3>User Profile<h3>
     <img src="/screenshots/profile.JPG" width="250px",height="200px"</img> 
     <img src="/screenshots/profile2.JPG" width="250px",height="200px"</img> 
-</div>
+    </td>
+</table>
 
 <br>
-<h3>Flutter Carosule and Grid View<h3>
- <div align="">
+<table>
+    <td>
+     <h3>Flutter Carosule and Grid View<h3>
     <img src="/screenshots/carosulJPG.JPG" width="250px",height="200px"</img> 
     <img src="/screenshots/gridview1.JPG" width="250px",height="200px"</img> 
     <img src="/screenshots/gridview2.JPG" width="250px",height="200px"</img> 
-</div>
+    </td>
+</table>
  <br>
- <h3>Social Media Clone<h3>
- <div align="">
+
+<table>
+    <td>
+     <h3>Social Media Clone<h3>
     <img src="/screenshots/instagram.JPG" width="250px",height="200px"</img> 
     <img src="/screenshots/instagramprofile.JPG" width="250px",height="200px"</img> 
     <img src="/screenshots/whatsapp.JPG" width="250px",height="200px"</img> 
-</div>
+    </td>
+ </tale>
 <br>
- <h2>Car UI<h2>
-  <div align="">
+        
+<table>
+    <td>
+     <h2>Car UI<h2>
     <img src="/screenshots/car.JPG" width="250px",height="200px"</img> 
     <img src="/screenshots/car2.JPG" width="250px",height="200px"</img> 
-     </div>
+    </td>
+</table>
 
