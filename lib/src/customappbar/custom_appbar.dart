@@ -25,6 +25,7 @@ class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
           color: Colors.black,
           size: 28,
         ),
+
       ),
 
       title: Text("Ganesh"),
