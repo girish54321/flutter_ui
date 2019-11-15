@@ -16,6 +16,7 @@ FLutter UI series based on <a href="https://www.uplabs.com/">Uplabs</a> & <a hre
     <img src="/screenshots/login2JPG.JPG" width="250px",height="200px"</img> 
     <img src="/screenshots/login3.JPG" width="250px",height="200px"</img> 
     <img src="/screenshots/signup.JPG" width="250px",height="200px"</img> 
+    <img src="/screenshots/slidinglogin.gif" width="250px",height="200px"</img> 
 </div>
 <br>
 <h3>Flutter Bottom Navigation Bar<h3>
