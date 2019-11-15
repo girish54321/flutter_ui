@@ -1,18 +1,18 @@
-# FLutter UI 
-<div align="">
+# FLutter UI Challenge
+
+<table>
+    <td>
     <img src="/screenshots/fa.png" width="1000px",height="300px"</img> 
-<!--     <img src="/screenshots/play-store-logo.PNG" width="250px",height="200px"</img>  -->
-</div>
-<br>
+    </td>
+</table>
+
 <h3>Credits<h3>
-
 FLutter UI series based on <a href="https://www.uplabs.com/">Uplabs</a> & <a href="https://dribbble.com/">Dribble</a>
-
-<h2>Screenshot<h2>
+<h3>Screenshot<h3>
   
 <table>
     <td>
-    <h3>User FLow Screens<h3>     
+    <h4>User FLow Screens<h4>     
     <img src="/screenshots/login.JPG" width="250px",height="200px"</img> 
     <img src="/screenshots/login2JPG.JPG" width="250px",height="200px"</img> 
     <img src="/screenshots/login3.JPG" width="250px",height="200px"</img> 
@@ -21,9 +21,10 @@ FLutter UI series based on <a href="https://www.uplabs.com/">Uplabs</a> & <a hre
     </td>
 </table>
 <br>
+        
   <table>
       <td>
-       <h3>Flutter Bottom Navigation Bar<h3>
+       <h4>Flutter Bottom Navigation Bar<h4>
         <h4>This are the awesome bottom navigation which are taken from <a href="https://pub.dev">Pub.dev</a><h4>
         <img src="/screenshots/fancybottonbar.gif" width="250px",height="200px"</img> 
         <img src="/screenshots/curvedbottonbar.gif" width="250px",height="200px"</img> 
@@ -34,23 +35,24 @@ FLutter UI series based on <a href="https://www.uplabs.com/">Uplabs</a> & <a hre
            
 <table>
     <td>
-      <h3>Custom App Bar<h3>
+      <h4>Custom App Bar<h4>
         <img src="/screenshots/custombar.JPG" width="250px",height="200px"</img> 
     </td>
 </table>
-    
+  <br>
+        
  <table>
     <td>
-     <h3>User Profile<h3>
+     <h4>User Profile<h4>
     <img src="/screenshots/profile.JPG" width="250px",height="200px"</img> 
     <img src="/screenshots/profile2.JPG" width="250px",height="200px"</img> 
     </td>
 </table>
-
 <br>
+        
 <table>
     <td>
-     <h3>Flutter Carosule and Grid View<h3>
+     <h4>Flutter Carosule and Grid View<h4>
     <img src="/screenshots/carosulJPG.JPG" width="250px",height="200px"</img> 
     <img src="/screenshots/gridview1.JPG" width="250px",height="200px"</img> 
     <img src="/screenshots/gridview2.JPG" width="250px",height="200px"</img> 
@@ -60,7 +62,7 @@ FLutter UI series based on <a href="https://www.uplabs.com/">Uplabs</a> & <a hre
 
 <table>
     <td>
-     <h3>Social Media Clone<h3>
+     <h4>Social Media Clone<h4>
     <img src="/screenshots/instagram.JPG" width="250px",height="200px"</img> 
     <img src="/screenshots/instagramprofile.JPG" width="250px",height="200px"</img> 
     <img src="/screenshots/whatsapp.JPG" width="250px",height="200px"</img> 
@@ -70,7 +72,7 @@ FLutter UI series based on <a href="https://www.uplabs.com/">Uplabs</a> & <a hre
         
 <table>
     <td>
-     <h2>Car UI<h2>
+     <h4>Car UI<h4>
     <img src="/screenshots/car.JPG" width="250px",height="200px"</img> 
     <img src="/screenshots/car2.JPG" width="250px",height="200px"</img> 
     </td>
