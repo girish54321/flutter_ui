@@ -34,7 +34,7 @@ dev_dependencies:
   line_icons:
   fancy_bottom_navigation:
   curved_navigation_bar:
-
+  flutter_snake_navigationbar:
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

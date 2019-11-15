@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'src/bottomnavigationbar/curved_bottom_navigation_bar.dart';
+import 'src/bottomnavigationbar/expanding_bottom_bar.dart';
 
 void main() => runApp(MyApp());
 
@@ -26,7 +26,8 @@ class MyApp extends StatelessWidget {
       // home: AppBarHome(),
       // home: FancyBottonNavigationBar(),
       // home: SlidingLogin(),
-      home: CurvedBottonNavigationBar(),
+      // home: CurvedBottonNavigationBar(),
+      home: FlutterSnakeBottomBar(),
     );
   }
 }
