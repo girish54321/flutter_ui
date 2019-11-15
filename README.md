@@ -1,7 +1,7 @@
 # FLutter UI 
 <div align="">
-    <img src="/screenshots/app-store-logo.PNG" width="250px",height="200px"</img> 
-    <img src="/screenshots/play-store-logo.PNG" width="250px",height="200px"</img> 
+    <img src="/screenshots/fa.png" width="250px",height="200px"</img> 
+<!--     <img src="/screenshots/play-store-logo.PNG" width="250px",height="200px"</img>  -->
 </div>
 <br>
 <h3>Credits<h3>
