@@ -18,6 +18,11 @@ FLutter UI series based on <a href="https://www.uplabs.com/">Uplabs</a> & <a hre
     <img src="/screenshots/signup.JPG" width="250px",height="200px"</img> 
 </div>
 <br>
+<h3>Button Bar<h3>
+ <div align="">
+    <img src="/screenshots/fancybottonbar.gif" width="250px",height="200px"</img> 
+</div>
+ <br>
 <h3>Custom App Bar<h3>
  <div align="">
     <img src="/screenshots/custombar.JPG" width="250px",height="200px"</img> 
