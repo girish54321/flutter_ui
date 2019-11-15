@@ -1,6 +1,6 @@
 # FLutter UI 
 <div align="">
-    <img src="/screenshots/fa.png" width="250px",height="200px"</img> 
+    <img src="/screenshots/fa.png" width="500px",height="400px"</img> 
 <!--     <img src="/screenshots/play-store-logo.PNG" width="250px",height="200px"</img>  -->
 </div>
 <br>
