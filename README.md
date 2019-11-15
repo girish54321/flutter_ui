@@ -11,13 +11,17 @@ FLutter UI series based on <a href="https://www.uplabs.com/">Uplabs</a> & <a hre
 <h2>Screenshot<h2>
 <h3>User FLow Screens<h3>
   
- <div align="">
+<table>
+    <td>
+         <div align="">
     <img src="/screenshots/login.JPG" width="250px",height="200px"</img> 
     <img src="/screenshots/login2JPG.JPG" width="250px",height="200px"</img> 
     <img src="/screenshots/login3.JPG" width="250px",height="200px"</img> 
     <img src="/screenshots/signup.JPG" width="250px",height="200px"</img> 
     <img src="/screenshots/slidinglogin.gif" width="250px",height="200px"</img> 
 </div>
+    </td>
+</table>
 <br>
 <h3>Flutter Bottom Navigation Bar<h3>
 <h4>This are the awesome bottom navigation which are taken from <a href="https://pub.dev">Pub.dev</a><h4>
