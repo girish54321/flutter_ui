@@ -6,8 +6,7 @@
     </td>
 </table>
 
-<h3>Credits<h3>
-FLutter UI series based on <a href="https://www.uplabs.com/">Uplabs</a> & <a href="https://dribbble.com/">Dribble</a>
+<h3>FLutter UI series based on <a href="https://www.uplabs.com/">Uplabs</a> & <a href="https://dribbble.com/">Dribble</a></h3>
 <h3>Screenshot<h3>
   
 <table>
