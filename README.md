@@ -11,8 +11,8 @@ FLutter UI series based on <a href="https://www.uplabs.com/">Uplabs</a> & <a hre
 <h2>Screenshot<h2>
   
 <table>
-<h3>User FLow Screens<h3>
     <td>
+    <h3>User FLow Screens<h3>     
     <img src="/screenshots/login.JPG" width="250px",height="200px"</img> 
     <img src="/screenshots/login2JPG.JPG" width="250px",height="200px"</img> 
     <img src="/screenshots/login3.JPG" width="250px",height="200px"</img> 
