@@ -12,11 +12,13 @@
 <table>
     <td>
     <h4>User FLow Screens<h4>     
-    <img src="/screenshots/login.JPG" width="250px",height="200px"</img> 
-    <img src="/screenshots/login2JPG.JPG" width="250px",height="200px"</img> 
-    <img src="/screenshots/login3.JPG" width="250px",height="200px"</img> 
-    <img src="/screenshots/signup.JPG" width="250px",height="200px"</img> 
-    <img src="/screenshots/slidinglogin.gif" width="250px",height="200px"</img> 
+        <div align="center">
+           <img src="/screenshots/login.JPG" width="250px",height="200px"</img> 
+            <img src="/screenshots/login2JPG.JPG" width="250px",height="200px"</img> 
+            <img src="/screenshots/login3.JPG" width="250px",height="200px"</img> 
+            <img src="/screenshots/signup.JPG" width="250px",height="200px"</img> 
+            <img src="/screenshots/slidinglogin.gif" width="250px",height="200px"</img>
+        </div> 
     </td>
 </table>
 <br>
