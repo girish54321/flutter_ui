@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'src/customappbar/app_bar_home.dart';
+import 'src/bottomnavigationbar/fancy_bottom_navigation_bar.dart';
 
 void main() => runApp(MyApp());
 
@@ -23,7 +23,8 @@ class MyApp extends StatelessWidget {
       // home: UserProfilePage(),
       // home: LoginPage3(),
       // home: WhatsAppUi2(),
-      home: AppBarHome(),
+      // home: AppBarHome(),
+      home: FancyBottonNavigationBar(),
     );
   }
 }
