@@ -23,7 +23,7 @@ FLutter UI series based on <a href="https://www.uplabs.com/">Uplabs</a> & <a hre
 <h4>This are the awesome bottom navigation which are taken from <a href="https://pub.dev">Pub.dev</a><h4>
  <div align="">
     <img src="/screenshots/fancybottonbar.gif" width="250px",height="200px"</img> 
-    <img src="/screenshots/curvedbottonbar.gif" width="250px",height="190px"</img> 
+    <img src="/screenshots/curvedbottonbar.gif" width="250px",height="200px"</img> 
 </div>
  <br>
 <h3>Custom App Bar<h3>
