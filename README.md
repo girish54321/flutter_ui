@@ -9,9 +9,9 @@
 FLutter UI series based on <a href="https://www.uplabs.com/">Uplabs</a> & <a href="https://dribbble.com/">Dribble</a>
 
 <h2>Screenshot<h2>
-<h3>User FLow Screens<h3>
   
 <table>
+<h3>User FLow Screens<h3>
     <td>
     <img src="/screenshots/login.JPG" width="250px",height="200px"</img> 
     <img src="/screenshots/login2JPG.JPG" width="250px",height="200px"</img> 
