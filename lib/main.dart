@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'src/whatsappui/whatsappui2.dart';
+import 'src/customappbar/app_bar_home.dart';
 
 void main() => runApp(MyApp());
 
@@ -22,7 +22,8 @@ class MyApp extends StatelessWidget {
       // home: TabBarDemo(),
       // home: UserProfilePage(),
       // home: LoginPage3(),
-      home: WhatsAppUi2(),
+      // home: WhatsAppUi2(),
+      home: AppBarHome(),
     );
   }
 }
