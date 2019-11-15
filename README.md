@@ -24,6 +24,7 @@ FLutter UI series based on <a href="https://www.uplabs.com/">Uplabs</a> & <a hre
  <div align="">
     <img src="/screenshots/fancybottonbar.gif" width="250px",height="200px"</img> 
     <img src="/screenshots/curvedbottonbar.gif" width="250px",height="200px"</img> 
+    <img src="/screenshots/snakebottonbar.gif" width="250px",height="200px"</img> 
 </div>
  <br>
 <h3>Custom App Bar<h3>
