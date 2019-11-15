@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'src/bottomnavigationbar/fancy_bottom_navigation_bar.dart';
+import 'src/pages/login_signup/sliding_login.dart';
 
 void main() => runApp(MyApp());
 
@@ -24,7 +24,8 @@ class MyApp extends StatelessWidget {
       // home: LoginPage3(),
       // home: WhatsAppUi2(),
       // home: AppBarHome(),
-      home: FancyBottonNavigationBar(),
+      // home: FancyBottonNavigationBar(),
+      home: SlidingLogin(),
     );
   }
 }
