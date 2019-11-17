@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'src/bottomnavigationbar/expanding_bottom_bar.dart';
+import 'src/customappbar/animatedappbar/animated_appbar_homepage.dart';
 
 void main() => runApp(MyApp());
 
@@ -27,7 +27,8 @@ class MyApp extends StatelessWidget {
       // home: FancyBottonNavigationBar(),
       // home: SlidingLogin(),
       // home: CurvedBottonNavigationBar(),
-      home: FlutterSnakeBottomBar(),
+      // home: FlutterSnakeBottomBar(),
+      home: AnimatedAppBar(),
     );
   }
 }
