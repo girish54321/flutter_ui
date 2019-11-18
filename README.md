@@ -39,6 +39,7 @@
      <h4>User Profile<h4>
     <img src="/screenshots/profile.JPG" width="250px",height="200px"</img> 
     <img src="/screenshots/profile2.JPG" width="250px",height="200px"</img> 
+    <img src="/screenshots/mycv.gif" width="250px",height="200px"</img> 
     </td>
 </table>
 <br>
