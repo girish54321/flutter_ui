@@ -1,5 +1,5 @@
+import 'package:ecommerce/src/foodappui/foodappui/food_app_homepage.dart';
 import 'package:flutter/material.dart';
-import 'src/customappbar/animatedappbar/animated_appbar_homepage.dart';
 
 void main() => runApp(MyApp());
 
@@ -28,7 +28,8 @@ class MyApp extends StatelessWidget {
       // home: SlidingLogin(),
       // home: CurvedBottonNavigationBar(),
       // home: FlutterSnakeBottomBar(),
-      home: AnimatedAppBar(),
+      // home: AnimatedAppBar(),
+      home: FoodAppHomePage(),
     );
   }
 }
