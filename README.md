@@ -33,14 +33,6 @@
       </td>
   </table>
  <br>
-           
-<table>
-    <td>
-      <h4>Custom App Bar<h4>
-        <img src="/screenshots/custombar.JPG" width="250px",height="200px"</img> 
-    </td>
-</table>
-  <br>
         
  <table>
     <td>
