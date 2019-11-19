@@ -33,6 +33,14 @@
       </td>
   </table>
  <br>
+           
+  <table>
+    <td>
+     <h4>App Bar<h4>
+    <img src="/screenshots/collapsingappbar.gif" width="250px",height="200px"</img> 
+    </td>
+</table>
+<br>
         
  <table>
     <td>
