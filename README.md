@@ -12,7 +12,7 @@
 <table>
     <td>
     <h4>User FLow Screens<h4>     
-        <div align="center">
+        <div align="center" style="background-color:lightgrey">
            <img src="/screenshots/login.JPG" width="250px",height="200px"</img> 
             <img src="/screenshots/login2JPG.JPG" width="250px",height="200px"</img> 
             <img src="/screenshots/login3.JPG" width="250px",height="200px"</img> 
