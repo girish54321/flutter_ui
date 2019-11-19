@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'src/customappbar/collapsingappbar/collapsing_appbar.dart';
+import 'src/catzoneui/homepage_catzone.dart';
 
 void main() => runApp(MyApp());
 
@@ -31,7 +31,8 @@ class MyApp extends StatelessWidget {
       // home: AnimatedAppBar(),
       // home: FoodAppHomePage(),
       // home: MyProfilePage(),
-      home: CollapsingAppBar(),
+      // home: CollapsingAppBar(),
+      home: CatZoneHomePage(),
     );
   }
 }
