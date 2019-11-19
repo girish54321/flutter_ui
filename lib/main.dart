@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'src/userprofile/my_profile_page.dart';
+import 'src/customappbar/collapsingappbar/collapsing_appbar.dart';
 
 void main() => runApp(MyApp());
 
@@ -30,7 +30,8 @@ class MyApp extends StatelessWidget {
       // home: FlutterSnakeBottomBar(),
       // home: AnimatedAppBar(),
       // home: FoodAppHomePage(),
-      home: MyProfilePage(),
+      // home: MyProfilePage(),
+      home: CollapsingAppBar(),
     );
   }
 }
