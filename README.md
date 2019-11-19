@@ -89,4 +89,14 @@
         <img src="/screenshots/food2.gif" width="250px",height="200px"</img> 
     </td>
 </table>
+ <br>
+        
+<table>
+    <td>
+      <h4>Cat Zone UI<h4>
+        <img src="/screenshots/cat1.gif" width="250px",height="200px"</img> 
+        <img src="/screenshots/cat2.gif" width="250px",height="200px"</img> 
+        <img src="/screenshots/cat3.gif" width="250px",height="200px"</img> 
+    </td>
+</table>
 
