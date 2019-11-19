@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'src/catzoneui/homepage_catzone.dart';
+import 'src/messangerui/messanger_home_page.dart';
 
 void main() => runApp(MyApp());
 
@@ -32,7 +32,8 @@ class MyApp extends StatelessWidget {
       // home: FoodAppHomePage(),
       // home: MyProfilePage(),
       // home: CollapsingAppBar(),
-      home: CatZoneHomePage(),
+      // home: CatZoneHomePage(),
+      home: MessangerHomePage(),
     );
   }
 }
