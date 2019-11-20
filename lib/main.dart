@@ -1,5 +1,5 @@
+import 'package:ecommerce/src/washingappui/washing_app_ui_homepage.dart';
 import 'package:flutter/material.dart';
-import 'src/messangerui/messanger_home_page.dart';
 
 void main() => runApp(MyApp());
 
@@ -33,7 +33,8 @@ class MyApp extends StatelessWidget {
       // home: MyProfilePage(),
       // home: CollapsingAppBar(),
       // home: CatZoneHomePage(),
-      home: MessangerHomePage(),
+      // home: MessangerHomePage(),
+      home: WashingAppHomePage(),
     );
   }
 }
