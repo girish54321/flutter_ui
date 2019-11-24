@@ -113,4 +113,13 @@ samples, guidance on mobile development, and a full API reference.
         <img src="/screenshots/cat3.gif" width="250px",height="200px"</img> 
     </td>
 </table>
+ <br>
+        
+<table>
+    <td>
+      <h4>Fitness app UI<h4>
+      <h3>Template taken from<a href="https://dribbble.com/shots/5763671-Fitness-Challenges-Dare-App-Day-363-365-Project365"> Dribble</a></h3>
+        <img src="/screenshots/fitness.gif" width="250px",height="200px"</img> 
+    </td>
+</table>
 
