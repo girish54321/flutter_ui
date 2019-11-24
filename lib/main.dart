@@ -1,4 +1,4 @@
-import 'package:ecommerce/src/todo_draggable/draggable_todo.dart';
+import 'package:ecommerce/src/fitnessappui/home.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
@@ -35,7 +35,8 @@ class MyApp extends StatelessWidget {
       // home: CatZoneHomePage(),
       // home: MessangerHomePage(),
       // home: WashingAppHomePage(),
-      home: DraggableToDo(),
+      // home: DraggableToDo(),
+      home: FitnessHomePage(),
     );
   }
 }
