@@ -1,4 +1,4 @@
-import 'package:ecommerce/src/fitnessappui/home.dart';
+import 'package:ecommerce/src/fluttercarousel/carosule.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
@@ -36,7 +36,8 @@ class MyApp extends StatelessWidget {
       // home: MessangerHomePage(),
       // home: WashingAppHomePage(),
       // home: DraggableToDo(),
-      home: FitnessHomePage(),
+      // home: FitnessHomePage(),
+      home: CarouselDemo(),
     );
   }
 }
