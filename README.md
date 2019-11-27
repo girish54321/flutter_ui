@@ -69,6 +69,7 @@ samples, guidance on mobile development, and a full API reference.
     <td>
      <h4>Flutter Carosule and Grid View<h4>
     <img src="/screenshots/carosulJPG.JPG" width="250px",height="200px"</img> 
+    <img src="/screenshots/slider.gif" width="250px",height="200px"</img> 
     <img src="/screenshots/gridview1.JPG" width="250px",height="200px"</img> 
     <img src="/screenshots/gridview2.JPG" width="250px",height="200px"</img> 
     </td>
