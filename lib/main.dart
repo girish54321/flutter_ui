@@ -1,4 +1,4 @@
-import 'package:ecommerce/src/fluttercarousel/carosule.dart';
+import 'package:ecommerce/src/pizzaappui/homepage_pizza.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
@@ -37,7 +37,8 @@ class MyApp extends StatelessWidget {
       // home: WashingAppHomePage(),
       // home: DraggableToDo(),
       // home: FitnessHomePage(),
-      home: CarouselDemo(),
+      // home: CarouselDemo(),
+      home: PizzaHomePage(),
     );
   }
 }
